@@ -1,0 +1,24 @@
+{
+  "name": "react-study-group",
+  "description": "<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section --> [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-) <!-- ALL-CONTRIBUTORS-BADGE:END -->",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjchender/react-study-group.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjchender/react-study-group/issues"
+  },
+  "homepage": "https://github.com/pjchender/react-study-group#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0"
+  }
+}
