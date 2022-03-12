@@ -1,0 +1,24 @@
+{
+  "projectName": "react-study-group",
+  "projectOwner": "pjchender",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "joseph2068",
+      "name": "joseph2068",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28560039?v=4",
+      "profile": "https://github.com/joseph2068",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
