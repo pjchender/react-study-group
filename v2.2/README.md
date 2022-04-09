@@ -20,7 +20,7 @@
 
 | Time  | Topic                                                        | Reporter                                | Resource Link                                                |
 | ----- | ------------------------------------------------------------ | --------------------------------------- | ------------------------------------------------------------ |
-| 02/26 | [Compound Pattern](https://www.patterns.dev/posts/compound-pattern/) | PJ                                      | [README.md](./Compound%20Pattern)                            |
+| 02/26 | [Compound Pattern](https://www.patterns.dev/posts/compound-pattern/) | PJ                                      | [pjchender.dev](https://pjchender.dev/react/react-compound-component-pattern) |
 | 03/05 | [Proxy Pattern](https://www.patterns.dev/posts/proxy-pattern/) | [Joseph](https://github.com/joseph2068) | [hackmd](https://hackmd.io/bZaCFJKTRMqR_rBqEkBFvg?view)      |
 | 03/12 | [How to Upgrade to the React 18 Release Candidate](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html) | [Alan](https://github.com/ChaoTzuJung)  | [hackmd](https://hackmd.io/mzTXi3yqQLqpy-qgV9GO5A?view)<br />[youtube](https://www.youtube.com/watch?v=RfHb6_dvhgY&list=PLIoQk0yF-htGsRxlqILXLhXWXIY9iIKsl&index=28) |
 | 03/19 | [Understanding Next.js Data Fetching (CSR, SSR, SSG, ISR)](https://theodorusclarence.com/blog/nextjs-fetch-method) | [Joy](https://github.com/CodewJoy)      | [hackmd](https://hackmd.io/aCjbg0QtQrqCYoe_wugfBw)<br />[youtube](https://www.youtube.com/watch?v=vcIEuwM4VW4&list=PLIoQk0yF-htGsRxlqILXLhXWXIY9iIKsl&index=29) |
@@ -39,4 +39,3 @@
 |       | [PRPL Pattern](https://www.patterns.dev/posts/prpl/)         | Stan                                    |                                                              |
 |       | [Tree Shaking](https://www.patterns.dev/posts/tree-shaking/) | Ralf                                    |                                                              |
 |       | [List Virtualization](https://www.patterns.dev/posts/virtual-lists/) | Alan                                    |                                                              |
-
