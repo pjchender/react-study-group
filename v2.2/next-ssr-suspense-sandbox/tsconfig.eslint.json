@@ -1,0 +1,17 @@
+{
+  "extends": "./tsconfig.json",
+  // include all files in the project
+  "include": [
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx",
+    "next-env.d.ts",
+    ".eslintrc.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "build",
+    "scripts"
+  ]
+}
