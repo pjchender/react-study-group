@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "^12.1.7-canary.19",
+    "next": "^12.1.7-canary.27",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "sleep-promise": "^9.1.0"

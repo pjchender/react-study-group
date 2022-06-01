@@ -10,7 +10,7 @@ import utilStyles from '../../styles/utils.module.scss';
 const PostList = lazy(async () => {
   console.log('[PostList] start loading module');
   await sleep(IMPORT_POSTS_MODULE_TIME);
-  const mod = await import('../../modules/posts/PostList');
+  const mod = await import('../../modules/posts/PostListCSR');
   console.log('[PostList] end loading module');
   return mod;
 });
@@ -24,23 +24,6 @@ const Header = lazy(async () => {
 });
 
 export default function Home() {
-  const [allPostsData, setAllPostsData] = useState<PostData[]>([]);
-  const [isLoading, setIsLoading] = useState(false);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      console.log('[Home] start fetching data');
-      setIsLoading(true);
-      const allPostsData = await getPostsData();
-
-      setAllPostsData(allPostsData);
-      setIsLoading(false);
-      console.log('[Home] end fetching data');
-    };
-
-    fetchData().catch((err) => console.error(err));
-  }, []);
-
   return (
     <Layout home>
       <section className={utilStyles.headingMd}>
@@ -54,13 +37,9 @@ export default function Home() {
           <Header />
         </Suspense>
 
-        {isLoading ? (
-          <p>Fetching data...</p>
-        ) : (
-          <Suspense fallback={<p>Loading Module PostList...</p>}>
-            <PostList allPostsData={allPostsData} />
-          </Suspense>
-        )}
+        <Suspense fallback={<p>Loading Module PostList...</p>}>
+          <PostList />
+        </Suspense>
       </section>
     </Layout>
   );

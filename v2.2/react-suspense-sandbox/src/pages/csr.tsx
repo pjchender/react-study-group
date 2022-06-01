@@ -54,13 +54,9 @@ export default function Home() {
           <Header />
         </Suspense>
 
-        {isLoading ? (
-          <p>Fetching data...</p>
-        ) : (
-          <Suspense fallback={<p>Loading Module PostList...</p>}>
-            <PostList />
-          </Suspense>
-        )}
+        <Suspense fallback={<p>Loading Module PostList...</p>}>
+          <PostList />
+        </Suspense>
       </section>
     </>
   );
