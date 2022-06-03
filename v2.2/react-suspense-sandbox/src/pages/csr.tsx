@@ -1,7 +1,7 @@
 
 import { lazy, Suspense, useEffect, useState } from 'react';
 import sleep from 'sleep-promise';
-
+import './../app.css';
 
 import { IMPORT_HEADER_MODULE_TIME, IMPORT_POSTS_MODULE_TIME } from '../lib/constants';
 import { getPostsData, PostData } from '../lib/posts';
@@ -42,7 +42,7 @@ export default function Home() {
   }, []);
 
   return (
-    <>
+    <div className="container">
       <section>
         There is no need to hydrate, so the title color will be red at the first time.
         <br />
@@ -58,6 +58,6 @@ export default function Home() {
           <PostList />
         </Suspense>
       </section>
-    </>
+    </div>
   );
 }

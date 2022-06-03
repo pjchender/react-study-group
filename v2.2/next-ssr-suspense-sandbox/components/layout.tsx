@@ -6,7 +6,7 @@ import { ReactNode } from 'react';
 import utilStyles from '../styles/utils.module.scss';
 import styles from './layout.module.css';
 
-const name = 'React Study Group';
+const name = 'Front-End Sharing';
 export const siteTitle = 'Next.js Sample Website';
 
 interface Props {
