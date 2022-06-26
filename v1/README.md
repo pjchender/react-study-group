@@ -11,3 +11,8 @@
 | 07/10 | How to use React Context effectively | Yung-Sheng Lu   | [Facebook](https://www.facebook.com/100002640781654/videos/171762585013015/) |
 | 07/17 | Myths about useEffect                | 허벽산          | [Facebook](https://www.facebook.com/100002640781654/videos/781453682530389/) |
 | 07/24 | React Reconcilliation                | Ken             | [Facebook](https://www.facebook.com/100002640781654/videos/502385594324672/) |
+
+## 成員回饋
+
+![feedback](https://i.imgur.com/UFf8s5u.png)
+

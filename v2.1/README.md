@@ -15,3 +15,7 @@
 | 11/20 | State machine 和 X State 的應用                              | Ken      | [Youtube](https://www.youtube.com/watch?v=qU7TiD_Q_Ww&list=PLIoQk0yF-htGsRxlqILXLhXWXIY9iIKsl&index=24) |
 | 11/27 | useAsyncHook                                                 | Emma     | [Youtube](https://www.youtube.com/watch?v=v8o3Tl7vAMo&list=PLIoQk0yF-htGsRxlqILXLhXWXIY9iIKsl&index=24) |
 | 12/04 | 影音串流的前備知識與實作經驗                                 | Ralf     | [Youtube](https://www.youtube.com/watch?v=ys2bd-b2PVg&list=PLIoQk0yF-htGsRxlqILXLhXWXIY9iIKsl&index=26) |
+
+## 成員回饋
+
+![feedback](https://i.imgur.com/yozz1Jg.png)
