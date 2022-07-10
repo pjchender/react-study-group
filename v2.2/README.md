@@ -36,7 +36,8 @@
 | 06/04 | [Import On Visibility](https://www.patterns.dev/posts/import-on-visibility/) ft. [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) | Emma                                                         | [note](https://hackmd.io/@Emmacheng/SyQInMaI9)               |
 | 06/11 | [Import On Interaction](https://www.patterns.dev/posts/import-on-interaction/) | Joseph                                                       | [note](https://hackmd.io/@joseph2068/rkxgTTudq)              |
 | 06/18 | [Route Based Splitting](https://www.patterns.dev/posts/route-based/)<br />[Bundle Splitting](https://www.patterns.dev/posts/bundle-splitting/)<br />[Factory Pattern](https://www.patterns.dev/posts/factory-pattern/) | Ralf / PJ                                                    | [BS note](https://hackmd.io/@k6ZVTtzSRiWCmssaGNPblw/r1DtSCcdc)、[RBS note](https://hackmd.io/@k6ZVTtzSRiWCmssaGNPblw/ByBcO7oY5)、[Factory Pattern](https://pjchender.dev/pattern/design-pattern-factory) |
-| 06/25 | [PRPL Pattern](https://www.patterns.dev/posts/prpl/)<br />[List Virtualization](https://www.patterns.dev/posts/virtual-lists/) | Stan / Alan                               |[PRPL Pattern](https://hackmd.io/YbKVD-DsRBiHrxKdJ-jzMQ?both)                                                             |
+| 06/25 | [PRPL Pattern](https://www.patterns.dev/posts/prpl/)<br />[List Virtualization](https://www.patterns.dev/posts/virtual-lists/) | Stan / Alan                               |[PRPL Pattern](https://hackmd.io/YbKVD-DsRBiHrxKdJ-jzMQ?both)、[LV note](./note_React18_and_SSR.md)、[Youtube](https://youtu.be/q-Unan9oTSU)                                                             |
+
 ## 成員回饋
 
 ![feedback](https://i.imgur.com/CoIVQnw.png)
