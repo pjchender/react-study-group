@@ -10,6 +10,7 @@
 | [v1](./v1)     | React 官方文件                                            |
 | [v2.1](./v2.1) | React 文章選讀，常見 Hooks 原始碼                         |
 | [v2.2](./v2.2) | [patterns.dev](https://www.patterns.dev/)，套件原始碼分享 |
+| [v2.3](./v2.3) | [重構（第二版）：改善既有程式的設計](https://www.books.com.tw/products/0010825896) |
 
 ## Contributors ✨
 
