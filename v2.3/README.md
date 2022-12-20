@@ -20,7 +20,7 @@
 
 | Time  | Reporter   | Topic | Resource Link |
 | ----- | ---------- | ----- | ------------- |
-| 12/19 | Ken        |       |               |
+| 12/19 | Ken        | Chapter 10 簡化條件邏輯     |      [重構 - Chapter 10 簡化條件邏輯](https://hackmd.io/@SyqQnpPDTG-JiscjHKTJKA/r14UiCadj) |
 | 12/26 | AZ         |       |               |
 | 01/02 | Ralf       |       |               |
 | 01/09 | 宗榮       |       |               |
