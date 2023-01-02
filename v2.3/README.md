@@ -21,8 +21,8 @@
 | Time  | Reporter   | Topic | Resource Link |
 | ----- | ---------- | ----- | ------------- |
 | 12/19 | Ken        | Chapter 10 簡化條件邏輯     |      [重構 - Chapter 10 簡化條件邏輯](https://hackmd.io/@SyqQnpPDTG-JiscjHKTJKA/r14UiCadj) |
-| 12/26 | AZ         |       |               |
-| 01/02 | Ralf       |       |               |
+| 12/26 | AZ         | Chapter 01  |               |
+| 01/02 | Ralf       |  Refactoring (P125~P155) |   [筆記](https://github.com/pjchender/react-study-group/edit/main/v2.3/README.md)   |
 | 01/09 | 宗榮       |       |               |
 | 01/16 | Joy        |       |               |
 | 01/23 | 初二回娘家 |       |               |
