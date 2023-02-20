@@ -28,5 +28,5 @@
 | 01/30 | Teisha   | Chapter 03（p81-p86）      | [筆記](https://hackmd.io/@tZvCqFTCT_Owzcyszia_2g/r1zHyPb3o)                                                              |
 | 02/06 | 粉粉       | Chapter 07 封裝 (單元 1 ~ 4) | [筆記](https://hackmd.io/@pinkymini/BkTgellnj)                                                                           |
 | 02/13 | Stan     |  Chapter 11 重構 API   | [筆記]( https://hackmd.io/xBQJFJVGTj6Q0d9VtjlOYQ?view)、[github repo](https://github.com/tonytonitone6/refarcting-sample) |
-| 02/20 | Water    |                          |                                                                                                                        |
+| 02/20 | Water    |    Chapter 09 組織資料       |  [筆記](https://hackmd.io/@n8ypKrSkQqqfkQvpq7Ucnw/BkjQP3_Ts)                                                                                                              |
 | 02/27 | PJ       |                          |                                                                                                                        |
